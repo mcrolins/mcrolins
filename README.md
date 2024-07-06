@@ -9,7 +9,7 @@ In addition to that I am currently undergoing my undergraduate studies in comput
 * ✉️  You can contact me at [rolinsmac21@gmail.com](mailto:rolinsmac21@gmail.com)
 * 🚀  I'm currently working on [Ecommerce website](http://mcrolins.github.io/landing-page/)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on All projects
+* 🤝  I'm open to collaboration on All projects
 
 ### Skills
 
