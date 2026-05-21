@@ -7,7 +7,7 @@ I possess a sharp attention to detail and a comprehensive grasp of UI/UX princip
 * 🌍  I'm based in Nakuru Kenya
 * ✉️  You can contact me at [rolinsmac21@gmail.com](mailto:rolinsmac21@gmail.com)
 * My portfolio https://mcrolins.github.io/portfolio/
-* 🚀  I'm currently working on [Ecommerce website](http://mcrolins.github.io/landing-page/)
+* 🚀  I'm currently working on a [Kenyan centric job board](https://comrades-corner.com/)
 * 🧠  I'm learning django
 * 🤝  I'm open to collaboration on All projects
 
